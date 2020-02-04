@@ -1,7 +1,7 @@
 # default config
 baseURL = "https://examplesite.org"
-languageCode = "en-us"
-title = "Parsa | Personal Blog Template"
+languageCode = "zh-cn"
+title = "韩诗语的小屋"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
@@ -64,10 +64,10 @@ description = "This is meta description"
 # about author
 author = "Themefisher"
 author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+bio = "I’m an account living now in Singapore."
 # Contact info
-mobile = "+90 000 333 22"
-email = "exmaple@ymail.com"
+mobile = "+65 8712 0163"
+email = "han.shiyu@outlook.com"
 address = "6 rip carl Avenue CA 90733"
 # Contact Form Action
 contact_form_action = "#"
