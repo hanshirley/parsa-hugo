@@ -15,7 +15,7 @@ weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "#15-313, BLK656C, Jurong West Street 61, Singapore"
+address = ""
 author = "韩诗语"
 author_image = "images/mmexport1578789678652.jpg"
 bio = "I’m an account living now in Singapore."
@@ -27,7 +27,7 @@ google_analitycs_id = "Your ID"
 home = "博客"
 layout = "1"
 logo = "images/logo.png"
-mobile = "+65 8712 0163"
+mobile = ""
 [params.instafeed]
 access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
 enable = true
